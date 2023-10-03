@@ -62,3 +62,11 @@ Identifier: urn:uuid:12345678-1234-5678-1234-567812345678
 - <http://idpf.org/epub>
 - <http://www.cnblogs.com/Alex80/p/5127104.html>
 - <http://www.cnblogs.com/diligenceday/p/4999315.html>
+
+## 备注
+- CHANGELOG.md 通过以下命令导出：
+```
+git log --pretty=format:"- %s (%ad)" --date=iso > CHANGELOG.md
+```
+- 本项目fork自<github.com/kapmahc/epub>，感谢原作者的贡献。但是原作者从2016年以来没有再更新，所以我将不考虑向原作者提交pull request。
+- 当前本项目主要考虑为gutenberg.org提供epub文件的兼容性，来源于其他制作者的epub文件有可能出错。

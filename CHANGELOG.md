@@ -1,3 +1,4 @@
-- change all models to public
-- parse epub books
-- Initial commit
+- fork，阅读源码并添加中文注释。 (2023-10-03 19:02:39 +0800)
+- change all models to public (2016-10-26 20:53:36 -0700)
+- parse epub books (2016-10-24 18:39:22 -0700)
+- Initial commit (2016-10-24 18:23:20 -0700)
