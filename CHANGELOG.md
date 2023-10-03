@@ -1,0 +1,3 @@
+- change all models to public
+- parse epub books
+- Initial commit
