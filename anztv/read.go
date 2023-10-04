@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/will-nb/go_epub_reader.git/pkg/epub"
+	"github.com/will-nb/go_epub_reader/pkg/epub"
 )
 
 func (r *Repository) Open() {
