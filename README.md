@@ -7,7 +7,7 @@
 要使用这个库，你需要先安装 Go 语言的开发环境。然后，使用以下命令进行安装：
 
 ```sh
-go get github.com/will-nb/go_epub-reader
+go get github.com/will-nb/go_epub_reader
 ```
 
 ## 使用
